@@ -1,0 +1,126 @@
+/************************************GENERAL***************************/
+body {
+  background-image: url("../assets/home/background-home-desktop.jpg");
+  background-size: cover;
+  background-color: #cccccc;
+  color: #FFFFFF;
+}
+
+p {
+  font-family: 'Barlow Condensed', sans-serif;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Barlow Condensed', serif;
+  font-size: 4.00rem;
+  font-weight: normal;
+  margin-top: 150px;
+}
+/**********************************CLASS*********************************/
+
+.heading1 {
+  font-family: 'Bellefair', serif;
+  font-size: 9.375rem;
+}
+
+.heading2 {
+  font-family: 'Bellefair', serif;
+  font-size: 6.25rem;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.heading3 {
+  font-family: 'Bellefair', serif;
+  font-size: 3.5rem;
+}
+
+.heading4 {
+  font-family: 'Bellefair', serif;
+  font-size: 2rem;
+}
+
+.heading5 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.75rem;
+  letter-spacing: 0.28125rem;
+}
+
+
+.navimg {
+position: relative;
+
+}
+
+.navruler {
+  display:inline-block;
+  position: relative;
+  border-style: none;
+  border-top-style:solid;
+  background-color: #cccccc;
+  width: 45%;
+  margin-top: 25px;
+  left: 20px;
+  bottom: 20px;
+}
+
+.navspan {
+  padding: 0 1.25rem 0 1.25rem;
+  margin-right: 50px;
+}
+
+.navtext {
+  background-color: gray;
+  display:inline-block;
+  position: relative;
+  text-align: right;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.16875rem;
+  width:51%;
+  height: 50px;
+
+  left:46.87rem;
+  bottom:3.75rem;
+  padding-top: 20px;
+}
+
+.subheading1 {
+  font-family: 'Bellefair', serif;
+  font-size: 1.75rem;
+}
+.subheading2 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.875rem;
+  letter-spacing: 0.146875rem;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.top-container {
+  display: inline-block;
+  position: static;
+  width: 100%;
+  margin: 50px auto 120px auto;
+}
+
+.middle-container {
+  position: absolute;
+  width: 30%;
+  text-align: center;
+  left: 190px;
+}
+
+.bottom-container {
+  height: 400px;
+  width: 400px;
+  background-color: WHITE;
+  color: black;
+  border-radius: 50%;
+  float: right;
+  margin-right: 100px;
+
+
+}
